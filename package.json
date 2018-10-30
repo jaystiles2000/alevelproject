@@ -1,0 +1,19 @@
+{
+  "name": "alevelproject",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaystiles2000/alevelproject.git"
+  },
+  "author": "Jay Stiles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaystiles2000/alevelproject/issues"
+  },
+  "homepage": "https://github.com/jaystiles2000/alevelproject#readme"
+}
